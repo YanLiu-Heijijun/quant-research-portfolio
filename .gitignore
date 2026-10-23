@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.local
+.venv/
+venv/
+*.key
+*.pem
+*.p12
+*.pfx
+data/raw/
+data/private/
+outputs/private/
+projects/*/data/private/
+projects/*/data/raw/
+projects/*/outputs/private/
+projects/black-litterman/inputs/snapshots/
