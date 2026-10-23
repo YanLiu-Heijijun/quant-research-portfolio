@@ -1,0 +1,10 @@
+# Supported installation ranges, not a lockfile of the original study.
+numpy>=1.26,<3
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+lightgbm>=4.5,<5
+TA-Lib>=0.6.5,<0.7
+matplotlib>=3.8,<4
+jupyterlab>=4.2,<5
+nbformat>=5.10,<6
+nbconvert>=7.16,<8
